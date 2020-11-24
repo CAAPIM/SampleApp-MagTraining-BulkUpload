@@ -1,0 +1,2 @@
+include ':MagTrainingBulkUpload1', ':MagTrainingBulkUpload2'
+rootProject.name='MagTraining'
