@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/abhisheknaidu/Documents/New_Sample_Apps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload1/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/abhisheknaidu/Documents/CAA_SampkeApps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload1/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/c18ea2bebf3d3f70044b8f352bfcc396/browser-1.0.0/res/values/values.xml",
@@ -37,6 +37,42 @@
                         "endLines": "26,203,204,205,206,361,362,363,747,2145,2148,2151,3867",
                         "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12,24",
                         "endOffsets": "1058,10306,10368,10430,10494,20727,20784,20838,45985,137258,137384,137512,244679"
+                    }
+                },
+                {
+                    "source": "/Users/abhisheknaidu/Documents/CAA_SampkeApps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload1/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,1,3,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "59,16,107,164",
+                        "endColumns": "47,42,56,52",
+                        "endOffsets": "102,54,159,212"
+                    },
+                    "to": {
+                        "startLines": "630,631,634,688",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "37066,37114,37382,42020",
+                        "endColumns": "47,42,56,52",
+                        "endOffsets": "37109,37152,37434,42068"
+                    }
+                },
+                {
+                    "source": "/Users/abhisheknaidu/Documents/CAA_SampkeApps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload1/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "368"
+                    },
+                    "to": {
+                        "startLines": "714",
+                        "startColumns": "4",
+                        "startOffsets": "43806",
+                        "endLines": "719",
+                        "endColumns": "12",
+                        "endOffsets": "44120"
                     }
                 },
                 {
@@ -207,25 +243,6 @@
                     }
                 },
                 {
-                    "source": "/Users/abhisheknaidu/Documents/New_Sample_Apps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload1/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "368"
-                    },
-                    "to": {
-                        "startLines": "714",
-                        "startColumns": "4",
-                        "startOffsets": "43806",
-                        "endLines": "719",
-                        "endColumns": "12",
-                        "endOffsets": "44120"
-                    }
-                },
-                {
                     "source": "/Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/8f9343ede0c54ea759a754bc85a64c5e/gridlayout-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "190,2,73",
@@ -245,24 +262,7 @@
                     }
                 },
                 {
-                    "source": "/Users/abhisheknaidu/Documents/New_Sample_Apps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload1/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "2,1,3,4",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "59,16,107,164",
-                        "endColumns": "47,42,56,52",
-                        "endOffsets": "102,54,159,212"
-                    },
-                    "to": {
-                        "startLines": "630,631,634,688",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "37066,37114,37382,42020",
-                        "endColumns": "47,42,56,52",
-                        "endOffsets": "37109,37152,37434,42068"
-                    }
-                },
-                {
-                    "source": "/Users/abhisheknaidu/Documents/New_Sample_Apps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload1/src/main/res/values/colors.xml",
+                    "source": "/Users/abhisheknaidu/Documents/CAA_SampkeApps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload1/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "4,2,3",
                         "startColumns": "4,4,4",

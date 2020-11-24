@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/abhisheknaidu/Documents/New_Sample_Apps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload1/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/abhisheknaidu/Documents/CAA_SampkeApps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload1/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/6119d746697059b7e1b74aab4d181f56/appcompat-1.1.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",

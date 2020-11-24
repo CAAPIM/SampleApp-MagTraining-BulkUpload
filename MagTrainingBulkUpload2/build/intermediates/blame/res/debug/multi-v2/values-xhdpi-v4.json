@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/abhisheknaidu/Documents/New_Sample_Apps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload2/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "outputFile": "/Users/abhisheknaidu/Documents/CAA_SampkeApps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload2/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/792ad8222964d173b57de22cfa83eb63/jetified-masui-release/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "source": "/Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/811078d436b2bef839c9c1e3effd7b04/jetified-masui-release/res/values-xhdpi-v4/values-xhdpi-v4.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

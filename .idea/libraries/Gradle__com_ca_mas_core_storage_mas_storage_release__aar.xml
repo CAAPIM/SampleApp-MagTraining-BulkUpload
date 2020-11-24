@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.ca.mas.core.storage:mas-storage-release:@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7e6fa2f28ae440129a72a959a2694be2/jetified-mas-storage-release/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8275fb5e5c263b161dde8635335edcd7/jetified-mas-storage-release/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7e6fa2f28ae440129a72a959a2694be2/jetified-mas-storage-release/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7e6fa2f28ae440129a72a959a2694be2/jetified-mas-storage-release/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8275fb5e5c263b161dde8635335edcd7/jetified-mas-storage-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8275fb5e5c263b161dde8635335edcd7/jetified-mas-storage-release/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

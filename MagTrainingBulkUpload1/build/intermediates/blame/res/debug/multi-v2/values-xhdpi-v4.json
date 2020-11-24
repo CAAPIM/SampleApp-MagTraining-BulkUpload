@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/abhisheknaidu/Documents/New_Sample_Apps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload1/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "outputFile": "/Users/abhisheknaidu/Documents/CAA_SampkeApps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload1/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
             "map": [
                 {
                     "source": "/Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/5af315ff5c623a1ffdad1acb8f88db2e/masui-2.1.00/res/values-xhdpi-v4/values-xhdpi-v4.xml",

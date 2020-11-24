@@ -1,4 +1,4 @@
-#Tue Nov 24 16:00:33 IST 2020
-base.0=/Users/abhisheknaidu/Documents/New_Sample_Apps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload2/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Tue Nov 24 22:59:17 IST 2020
+base.0=/Users/abhisheknaidu/Documents/CAA_SampkeApps/SampleApp-MagTraining-BulkUpload/MagTrainingBulkUpload2/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
