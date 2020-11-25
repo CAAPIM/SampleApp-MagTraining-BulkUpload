@@ -92,14 +92,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate( savedInstanceState );
         setContentView( R.layout.activity_main );
 
-        //
-        // Prevents screenshotting of content in Recents
-        //
-        getWindow().setFlags( WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);
-
-
         setTitle("Please login.....");
-
 
         //
         // Initialise the various Dialog Element references
@@ -160,8 +153,7 @@ public class MainActivity extends AppCompatActivity {
         } catch (SecurityException e) {
             e.printStackTrace();
         }
-
-
+        
         //
         // End of Location Handling
         //
