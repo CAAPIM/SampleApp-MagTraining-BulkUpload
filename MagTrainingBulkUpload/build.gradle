@@ -44,9 +44,9 @@ dependencies {
     implementation 'com.google.zxing:android-integration:3.3.0'
 
     // MAS Specific Libraries
-    implementation 'com.ca.mas.core:mas-foundation-release@aar'
-    implementation 'com.ca.mas.ui:masui-release@aar'
-    implementation 'com.ca.mas.core.storage:mas-storage-release@aar'
+    implementation 'com.ca.apim:mas-foundation:2.2.0'
+    implementation 'com.ca.apim:mas-storage:2.2.0'
+    implementation 'com.ca.apim:masui:2.2.0'
 
     // Google Support libraries
     implementation 'com.android.support:support-compat:28.0.0'
@@ -66,4 +66,12 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+}
+
+repositories {
+    jcenter()
+    maven { url 'https://maven.fabric.io/public' }
+    maven {
+        url 'https://dl.bintray.com/caapim/maven'
+    }
 }
