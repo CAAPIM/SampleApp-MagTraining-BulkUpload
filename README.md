@@ -1,4 +1,5 @@
 # SampleApp-MagTraining-BulkUpload
+This sample application is for uploading bulk files using multipart mechanism
 
 **Required:**
 * Latest version of Android Studio
